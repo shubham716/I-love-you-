@@ -1,3 +1,4 @@
+
 n=s=0
 p=input('Enter your name:-')
 q=input("Enter your partner name:-")
